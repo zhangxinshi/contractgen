@@ -132,3 +132,7 @@ Official site: **https://contractgen.mengstone.com/**
 - 由萌石科技团队维护。
 
 **官网：https://contractgen.mengstone.com/**
+
+---
+
+**双语实测页 / Bilingual review:** https://github.com/zhangxinshi/mengstone-site-reviews/blob/main/sites/contractgen.md
